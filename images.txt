@@ -6,3 +6,8 @@ fatedier/frps:v0.63.0
 deluan/navidrome:latest
 openlistteam/openlist:latest
 portainer/portainer-ee:latest
+b3log/siyuan:latest
+hslr/sun-panel:latest
+postgres:17
+halo/halo:2
+vaultwarden/server:latest
