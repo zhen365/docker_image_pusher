@@ -11,3 +11,4 @@ hslr/sun-panel:latest
 postgres:17
 halohub/halo:2
 vaultwarden/server:latest
+xhongc/music_tag_web:latest
