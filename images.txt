@@ -9,5 +9,5 @@ portainer/portainer-ee:latest
 b3log/siyuan:latest
 hslr/sun-panel:latest
 postgres:17
-halo/halo:2
+halohub/halo:2
 vaultwarden/server:latest
