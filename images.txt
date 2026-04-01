@@ -9,3 +9,4 @@ portainer/portainer-ee:latest
 openlistteam/openlist:latest
 hslr/sun-panel:latest
 postgres:17
+fredliang/derper:latest
