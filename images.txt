@@ -10,3 +10,4 @@ openlistteam/openlist:latest
 hslr/sun-panel:latest
 postgres:17
 fredliang/derper:latest
+ghcr.io/dani-garcia/vaultwarden:latest
