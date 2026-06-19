@@ -12,3 +12,4 @@ postgres:17
 ghcr.io/dani-garcia/vaultwarden:latest
 headscale/headscale:latest
 fredliang/derper:latest
+msmkls/daoliyu-music:latest
